@@ -1,0 +1,22 @@
+{
+  "name": "chat-bob",
+  "version": "1.0.0",
+  "description": "Twitch chat bot for noobs, yeeee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8o8inCodes/chat-bob.git"
+  },
+  "author": "BobTheSatan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8o8inCodes/chat-bob/issues"
+  },
+  "homepage": "https://github.com/8o8inCodes/chat-bob#readme",
+  "dependencies": {
+    "twitch": "^4.0.10"
+  }
+}
