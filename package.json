@@ -4,7 +4,8 @@
   "description": "Twitch chat bot for noobs, yeeee",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.mjs"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/8o8inCodes/chat-bob#readme",
   "dependencies": {
-    "twitch": "^4.0.10"
+    "fs-extra": "^9.0.0",
+    "jsonfile": "^6.0.1",
+    "twitch": "^4.0.10",
+    "twitch-chat-client": "^4.0.10"
   }
 }
