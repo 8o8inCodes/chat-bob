@@ -31,7 +31,7 @@ The files should look like this:
 `tokens.json`
 ```javascript
 {
-    "refreshToken": "<replace me>",
+    "refreshToken": "<replace me>"
 }
 ```
 
@@ -43,7 +43,7 @@ https://d-fischer.github.io/twitch-chat-client/docs/examples/basic-bot.html
 Once done, edit the configuration file to your liking, replace `channel_name` with your twitch user name.
 
 # Launch the bot:
-`npm start dev`
+`npm run dev`
 
 # Add custom commands
 
